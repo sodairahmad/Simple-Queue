@@ -1,4 +1,4 @@
-# Simple-Queue
+# Simple-Queue Data Sturcture
 
 class Queue:
     def __init__(self) -> None:
